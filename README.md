@@ -91,7 +91,7 @@ Follow these steps to set up and run the project locally:
 
 ## Demo
 
-Demo Video:
+Demo Video:(open in incognito window)
 
 https://drive.google.com/file/d/1Bufr5Q7LgqGZFjN2H6hRjBEB7Q0SqP3c/view?usp=sharing
 
